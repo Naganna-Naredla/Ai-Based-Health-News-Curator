@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "Rising Diabetes Cases in Urban Areas",
+    "content": "A new study highlights a significant rise in diabetes cases in urban populations due to sedentary lifestyles and poor diet.",
+    "date": "2025-09-24",
+    "language": "english",
+    "category": "disease"
+  },
+  {
+    "id": "2",
+    "title": "Heart Disease Linked to High Salt Intake",
+    "content": "Recent research shows that excessive salt consumption is a major factor in increasing heart disease risks among adults.",
+    "date": "2025-09-24",
+    "language": "english",
+    "category": "disease"
+  },
+  {
+    "id": "3",
+    "title": "Benefits of a Mediterranean Diet",
+    "content": "The Mediterranean diet, rich in olive oil and vegetables, is proven to improve heart health and longevity.",
+    "date": "2025-09-24",
+    "language": "english",
+    "category": "nutrition"
+  },
+  {
+    "id": "4",
+    "title": "Daily Walking Reduces Stroke Risk",
+    "content": "Experts recommend 30 minutes of daily walking to significantly lower the risk of stroke and improve overall fitness.",
+    "date": "2025-09-24",
+    "language": "english",
+    "category": "fitness"
+  },
+  {
+    "id": "5",
+    "title": "Car Accident Leads to Emergency Surgeries",
+    "content": "A multi-car accident on Highway 10 resulted in multiple emergency surgeries for trauma victims yesterday.",
+    "date": "2025-09-24",
+    "language": "english",
+    "category": "accident"
+  },
+  {
+    "id": "6",
+    "title": "Global Health Summit Outcomes",
+    "content": "The recent global health summit discussed strategies to improve healthcare access worldwide.",
+    "date": "2025-09-24",
+    "language": "english",
+    "category": "general"
+  },
+  {
+    "id": "7",
+    "title": "नई दिल्ली में कैंसर के बढ़ते मामले",
+    "content": "नई दिल्ली में कैंसर के मामले तेजी से बढ़ रहे हैं, विशेषज्ञ प्रदूषण और जीवनशैली को जिम्मेदार ठहराते हैं।",
+    "date": "2025-09-24",
+    "language": "hindi",
+    "category": "disease"
+  },
+  {
+    "id": "8",
+    "title": "हृदय रोग से बचाव के लिए योग",
+    "content": "नियमित योग अभ्यास हृदय रोग के जोखिम को कम करने में सहायक हो सकता है, विशेषज्ञों का कहना है।",
+    "date": "2025-09-24",
+    "language": "hindi",
+    "category": "fitness"
+  },
+  {
+    "id": "9",
+    "title": "प्रोटीन युक्त आहार की जरूरत",
+    "content": "स्वस्थ जीवन के लिए प्रोटीन युक्त आहार लेना आवश्यक है, जिसमें दाल और अंडे शामिल हैं।",
+    "date": "2025-09-24",
+    "language": "hindi",
+    "category": "nutrition"
+  },
+  {
+    "id": "10",
+    "title": "ट्रेन दुर्घटना में 10 घायल",
+    "content": "पिछली रात एक ट्रेन दुर्घटना में 10 लोग घायल हुए, सभी को अस्पताल में भर्ती किया गया।",
+    "date": "2025-09-24",
+    "language": "hindi",
+    "category": "accident"
+  },
+  {
+    "id": "11",
+    "title": "स्वास्थ्य जागरूकता अभियान शुरू",
+    "content": "सरकार ने ग्रामीण क्षेत्रों में स्वास्थ्य जागरूकता अभियान शुरू किया है ताकि बीमारियों से बचा जा सके।",
+    "date": "2025-09-24",
+    "language": "hindi",
+    "category": "general"
+  },
+  {
+    "id": "12",
+    "title": "किडनी रोगों का बढ़ता खतरा",
+    "content": "अस्वास्थ्यकर खान-पान के कारण किडनी रोगों का खतरा बढ़ रहा है, विशेषज्ञों ने चेतावनी दी।",
+    "date": "2025-09-24",
+    "language": "hindi",
+    "category": "disease"
+  },
+  {
+    "id": "13",
+    "title": "తెలుగు రాష్ట్రాల్లో డెంగ్యూ వ్యాధి",
+    "content": "తెలుగు రాష్ట్రాల్లో డెంగ్యూ వ్యాధి కేసులు పెరుగుతున్నాయి, అధికారులు నివారణ చర్యలు తీసుకుంటున్నారు।",
+    "date": "2025-09-24",
+    "language": "telugu",
+    "category": "disease"
+  },
+  {
+    "id": "14",
+    "title": "ఫిట్‌నెస్ కోసం రోజువారీ ఎక్సర్‌సైజ్",
+    "content": "రోజువారీ 20 నిమిషాల ఎక్సర్‌సైజ్ శరీర ఫిట్‌నెస్‌ను మెరుగుపరుస్తుందని నిపుణులు సూచిస్తున్నారు।",
+    "date": "2025-09-24",
+    "language": "telugu",
+    "category": "fitness"
+  },
+  {
+    "id": "15",
+    "title": "సంతులిత ఆహార ప్రాముఖ్యత",
+    "content": "సంతులిత ఆహారం ఆరోగ్యానికి అవసరం, పండ్లు మరియు కూరగాయలను ఎక్కువగా తినండి।",
+    "date": "2025-09-24",
+    "language": "telugu",
+    "category": "nutrition"
+  }
+]
